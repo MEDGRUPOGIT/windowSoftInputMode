@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "This plugin allows you to edit Android windowSoftInputMode dynamically from Cordova.",
   "cordova": {
-    "id": "com.vertex.windowSoftInputMode",
+    "id": "com.medgrupo.windowSoftInputMode",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denkomanceski/windowSoftInputMode"
+    "url": "git+https://github.com/MEDGRUPOGIT/windowSoftInputMode"
   },
   "keywords": [
     "Keyboard",
