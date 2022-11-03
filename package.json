@@ -1,5 +1,5 @@
 {
-  "name": "window-soft-input-mode",
+  "name": "com.medgrupo.window-soft-input-mode",
   "version": "1.0.0",
   "description": "This plugin allows you to edit Android windowSoftInputMode dynamically from Cordova.",
   "cordova": {
